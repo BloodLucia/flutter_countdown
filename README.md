@@ -1,8 +1,8 @@
 # flutter_countdown
 
 ## Preview
-<img src="https://github.com/thecvcoder/flutter_countdown/blob/master/previews/Screenshot_20230112-104708.png" style="width: 300px" />
-<img src="https://github.com/thecvcoder/flutter_countdown/blob/master/previews/Screenshot_20230112-104718.png" style="width: 300px" />
+<img src="https://github.com/thecvcoder/flutter_countdown/blob/master/previews/Screenshot_20230112-104708.png" style="width: 500px" />
+<img src="https://github.com/thecvcoder/flutter_countdown/blob/master/previews/Screenshot_20230112-104718.png" style="width: 500px" />
 
 A new Flutter project.
 
